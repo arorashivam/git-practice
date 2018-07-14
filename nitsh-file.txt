@@ -1,1 +1,2 @@
 I have added new file.
+This is something I am adding to check .gitignore file
